@@ -13,6 +13,10 @@ Resources for organizing diverse events
 
 **[EmpireConf CoC](https://github.com/EmpireJS/Code-of-Conduct)**
 
+**[Ada Initiative on conference anti-harassment policies](https://adainitiative.org/continue-our-work/conference-policies/)**
+
+**[Geek Feminism Wiki on anti-harassment policies](http://geekfeminism.wikia.com/wiki/Anti-harassment_policy_resources)**
+
 ## Suggested CFP review process
 
 TBD
